@@ -31,7 +31,7 @@ You can test the project by cloning the repository and start the project by inst
 
 
 ## Screenshot:
-![alt text](../react-portfolio/src/assets/images/Screenshot1.png)
+![alt text](./src/assets/images/Screenshot1.png)
 
 
 ## Contact Information:
