@@ -5,7 +5,7 @@ function Footer() {
 		<footer className="footer">
 			<div>
 				<a
-					href=""
+					href="https://github.com/wilmerojeda13"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
@@ -18,7 +18,7 @@ function Footer() {
 			</div>
 			<div>
 				<a
-					href=""
+					href="https://www.linkedin.com/in/wilmer-ojeda-71a871221/"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
@@ -31,7 +31,7 @@ function Footer() {
 			</div>
 			<div>
 				<a
-					href=""
+					href="https://stackoverflow.com/users/17638091/wilmerojeda13"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
