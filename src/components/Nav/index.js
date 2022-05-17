@@ -8,7 +8,7 @@ function Nav(props) {
         <nav>
             <ul className="flex-row mobile-view">
                 <li className={currentNav === "about" ? "mx-2 navActive" : "mx-2"}>
-                    <span onClick={() =>setNav("about")}>About me</span>
+                    <span onClick={() =>setNav("about")}>About Me</span>
                 </li>
 
                 <li className={currentNav === "portfolio" ? "mx-2 navActive" : "mx-2"}>
@@ -16,11 +16,11 @@ function Nav(props) {
                 </li>
 
                 <li className={currentNav === "contact" ? "mx-2 navActive" : "mx-2"}>
-                    <span onClick={() =>setNav("contact")}>contact</span>
+                    <span onClick={() =>setNav("contact")}>Contact</span>
                 </li>
 
                 <li className={currentNav === "resume" ? "mx-2 navActive" : "mx-2"}>
-                    <span onClick={() =>setNav("resume")}>resume</span>
+                    <span onClick={() =>setNav("resume")}>Resume</span>
                 </li>
     
                 
