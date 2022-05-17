@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.bff183db.css",
+    "main.js": "/React-Portfolio/static/js/main.0afc57c6.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/my-photo.jpg": "/React-Portfolio/static/media/my-photo.91e6006f3999dd6b7719.jpg",
+    "static/media/Whine-Dine.png": "/React-Portfolio/static/media/Whine-Dine.a37f25c104f0c7cda5cd.png",
+    "static/media/travelers-Wishlist.png": "/React-Portfolio/static/media/travelers-Wishlist.b823cb6b29e210651897.png",
+    "static/media/Screenshot1.png": "/React-Portfolio/static/media/Screenshot1.bd498fce54793334a9a4.png",
+    "static/media/social-network-api.png": "/React-Portfolio/static/media/social-network-api.5a0931ab274b5087ee46.png",
+    "static/media/My resume.pdf": "/React-Portfolio/static/media/My resume.5c82da0afd2a61a7d438.pdf",
+    "static/media/note-taker-app.png": "/React-Portfolio/static/media/note-taker-app.27c9d6d423ff090632f2.png",
+    "static/media/budget-tracker.png": "/React-Portfolio/static/media/budget-tracker.51936be648d6390de874.png",
+    "static/media/work-day-schedule.png": "/React-Portfolio/static/media/work-day-schedule.06cf4ea0704f47e6d0c0.png",
+    "static/media/password-generator-image.png": "/React-Portfolio/static/media/password-generator-image.989cc2dfb9156017c12d.png",
+    "static/media/stack-overflow.png": "/React-Portfolio/static/media/stack-overflow.924f6e6656a6024e102b.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.bff183db.css.map": "/React-Portfolio/static/css/main.bff183db.css.map",
+    "main.0afc57c6.js.map": "/React-Portfolio/static/js/main.0afc57c6.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff183db.css",
+    "static/js/main.0afc57c6.js"
+  ]
+}
